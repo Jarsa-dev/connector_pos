@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 ==============
-{Connector POS}
+Connector POS
 ==============
 
 This modules was written to extend the functionality of Point of Sale to support charge your clients
@@ -29,6 +29,6 @@ Maintainer
 
 .. image:: http://www.jarsa.com.mx/logo.png
    :alt: Jarsa Sistemas, S.A. de C.V.
-   :target: https://www.jarsa.com.mx
+   :target: http://www.jarsa.com.mx
 
 This module is maintained by the Jarsa Sistemas, S.A. de C.V.
